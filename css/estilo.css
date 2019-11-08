@@ -24,3 +24,18 @@
     clear: both;
     margin: auto;
 }
+
+/*===================================*/
+/*--------Estilos de columna---------*/
+/*===================================*/
+/*Estilos global de columna*/
+[class*="col-"] {
+    float: left;
+    border: 1px solid black;
+    padding: 20px;
+}
+/*===================================*/
+/*Columna de 12*/
+.col-12 {
+    width: 100%;
+}
