@@ -35,19 +35,28 @@
     padding: 20px;
 }
 /*===================================*/
-/*Columna de 12*/
+
+/*Columna de 12 al 100%*/
 .col-12 {
     width: 100%;
 }
 
+/*Columna de 6 al 50%*/
 .col-6 {
     width: 50%;
 }
 
+/*Columna de 3 al 25%*/
 .col-3 {
     width: 25%;
 }
 
+/*Columna de 2 al 16.67%*/
 .col-2 {
     width: 16.66666667%;
+}
+
+/*Columna de 1 al 8.33%*/
+.col-1 {
+    width: 8.33333333%;
 }
