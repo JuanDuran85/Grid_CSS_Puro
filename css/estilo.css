@@ -41,19 +41,44 @@
     width: 100%;
 }
 
-/*Columna de 11 al 91.66666667%*/
+/*Columna de 11 al 91.67%*/
 .col-11 {
     width: 91.66666667%;
 }
 
-/*Columna de 10 al 83.33333333%*/
+/*Columna de 10 al 83.33%*/
 .col-10 {
     width: 83.33333333%;
+}
+
+/*Columna de 9 al 75%*/
+.col-9 {
+    width: 75%;
+}
+
+/*Columna de 8 al 66.67%*/
+.col-8 {
+    width: 66.66666667%;
+}
+
+/*Columna de 7 al 58.33%*/
+.col-7 {
+    width: 58.33333333%;
 }
 
 /*Columna de 6 al 50%*/
 .col-6 {
     width: 50%;
+}
+
+/*Columna de 5 al 41.67%*/
+.col-5 {
+    width: 41.66666667%;
+}
+
+/*Columna de 4 al 33.33%*/
+.col-4 {
+    width: 33.33333333%;
 }
 
 /*Columna de 3 al 25%*/
@@ -70,3 +95,4 @@
 .col-1 {
     width: 8.33333333%;
 }
+/*===================================*/
