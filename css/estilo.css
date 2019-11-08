@@ -1,0 +1,26 @@
+/*Estilos globales*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+/*Estilos contenedor*/
+.contenedor {
+    position: relative;
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+/*Estilos fila*/
+.fila {
+    position: relative;
+    width: 100%;
+    height: auto;
+    display: table;
+    clear: both;
+    margin: auto;
+}
